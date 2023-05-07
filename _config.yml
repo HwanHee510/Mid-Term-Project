@@ -1,0 +1,32 @@
+title: KHH_about me
+author: GitHub User
+email: my003004@naver.com
+description:
+  과제를 위한 작성자의 자기소개
+show_excerpts: true # set to true to show excerpts on the homepage
+
+sass:
+  sass_dir: _sass
+plainwhite:
+  name: 김환희
+  tagline: 소프트웨어학과 32211334학번
+  date_format: "%b %-d, %Y"
+  sitemap: true # set to true to generate sitemap.xml content
+  search: false
+  dark_mode: true
+  portfolio_image: "assets/profile.jpg"
+  html_lang: "en"
+  condensed_mobile:
+    #- home
+    - page
+    - post
+  # generate social links in footer
+  social_links:
+    github:  HwanHee510
+
+# Build settings
+theme: plainwhite
+
+plugins:
+  - jekyll-seo-tag
+#  - jekyll-feed
