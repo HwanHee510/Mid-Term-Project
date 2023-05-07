@@ -14,9 +14,8 @@ plainwhite:
   sitemap: true # set to true to generate sitemap.xml content
   search: false
   dark_mode: true
-  portfolio_image: "assets/profile.jpg"
+  portfolio_image: "assets/profile.JPG"
   html_lang: "en"
-  url: "https://hwanhee510.github.io/MMP"
   condensed_mobile:
     #- home
     - page
