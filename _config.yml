@@ -17,7 +17,7 @@ plainwhite:
   portfolio_image: "assets/profile.jpg"
   html_lang: "en"
   condensed_mobile:
-    #- home
+    - home
     - page
     - post
   # generate social links in footer
