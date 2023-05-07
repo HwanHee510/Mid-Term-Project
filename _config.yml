@@ -16,6 +16,7 @@ plainwhite:
   dark_mode: true
   portfolio_image: "assets/profile.jpg"
   html_lang: "en"
+  baseurl: "https://hwanhee510.github.io/Mid-Term-Project"
   condensed_mobile:
     #- home
     - page
