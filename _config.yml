@@ -12,7 +12,7 @@ plainwhite:
   sitemap: true
   search: false
   dark_mode: true
-  portfolio_image: "assets/profile.JPG"
+  portfolio_image: "assets/profile.jpg"
   html_lang: "en"
   condensed_mobile:
     - page
